@@ -1,1 +1,1 @@
-# Lab2_BrodyRichards
+# Lab2_BrodyRichards->referenced and built from the following tutorials as well as examples from class: (https://lindenreid.wordpress.com/2018/03/03/rim-highlight-in-unity/) (https://github.com/lindenreid/Unity-Shader-Tutorials/blob/master/Assets/Materials/Shaders/silouetteBehindStuff.shader_) ()
